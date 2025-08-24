@@ -1,7 +1,4 @@
-# APTRUST01AUG25
-Rust Training
-
-# [APTRUSTNOV12] - Rust Programming Essentials
+# APTRUST01AUG25 - Rust Programming Essentials
 
 # Rust Programming Course (Level – 1)
 
